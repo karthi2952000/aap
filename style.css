@@ -1,0 +1,18 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+.navbar-expand:hover a
+{
+background-color:rgb(247,183,30);
+
+}
+
+.border-right
+{
+    
+    border-right-color: rgb(191, 191, 191) ;
+    
+}
